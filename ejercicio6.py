@@ -83,12 +83,3 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\nOcurrio un error: {e}")
         print("Solo se aceptan numeros enteros")
-
-    # print(sumar_matrices(matriz1, matriz2))
-
-    # print(columnas_matriz(matriz1))
-    # lista = [2,3,5,1,23,31,12,1,4]
-    # print(crear_matriz_lista(3, 3, lista))
-    # print(sum(lista))
-    #print("")
-    #print(producto_matrices(matriz1, matriz2))
